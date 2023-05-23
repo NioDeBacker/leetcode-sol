@@ -1,0 +1,15 @@
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\RansomNote.csproj.AssemblyReference.cache
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\RansomNote.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\RansomNote.AssemblyInfoInputs.cache
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\RansomNote.AssemblyInfo.cs
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\RansomNote.csproj.CoreCompileInputs.cache
+C:\Users\niode\leetcode-sol\RansomNote\bin\Debug\net7.0\RansomNote.exe
+C:\Users\niode\leetcode-sol\RansomNote\bin\Debug\net7.0\RansomNote.deps.json
+C:\Users\niode\leetcode-sol\RansomNote\bin\Debug\net7.0\RansomNote.runtimeconfig.json
+C:\Users\niode\leetcode-sol\RansomNote\bin\Debug\net7.0\RansomNote.dll
+C:\Users\niode\leetcode-sol\RansomNote\bin\Debug\net7.0\RansomNote.pdb
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\RansomNote.dll
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\refint\RansomNote.dll
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\RansomNote.pdb
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\RansomNote.genruntimeconfig.cache
+C:\Users\niode\leetcode-sol\RansomNote\obj\Debug\net7.0\ref\RansomNote.dll
