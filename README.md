@@ -9,8 +9,12 @@ My solutions for leetcode problems using C#. The solutions are grouped by lists.
 ## Easy level
 
 - [Challenges For New Users](./ChallengesForNewUsers/ChallengesForNewUsers.md)
-- [Daily Challenges (Easy)](./DailyChallengsEasy/DailyChallengesEasy.md)
+- [Daily Challenges (Easy)](./DailyChallengesEasy/DailyChallengesEasy.md)
 
 ## Medium level
 
+- [Daily Challenges (Medium)](./DailyChallengesMedium/DailyChallengesMedium.md)
+
 ## Hard level
+
+- [Daily Challenges (Hard)](./DailyChallengesHard/DailyChallengesHard.md)
