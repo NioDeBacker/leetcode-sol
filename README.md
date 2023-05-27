@@ -10,6 +10,8 @@ My solutions for leetcode problems using C#. The solutions are grouped by lists.
 
 - [Challenges For New Users](./ChallengesForNewUsers/ChallengesForNewUsers.md)
 - [Daily Challenges (Easy)](./DailyChallengesEasy/DailyChallengesEasy.md)
+- [Sum](./Sum/Sum.md)
+- [Running Sum](./RunningSum/RunningSum.md)
 
 ## Medium level
 
