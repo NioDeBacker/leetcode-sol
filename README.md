@@ -6,22 +6,22 @@ My solutions for leetcode problems using C#. There are three levels of leetcode 
 - Medium
 - Hard
 
-## Easy level
+## By level
+
+### Easy level
 
 - [Challenges For New Users](./ChallengesForNewUsers/ChallengesForNewUsers.md)
 - [Daily Challenges (Easy)](./DailyChallengesEasy/DailyChallengesEasy.md)
-- [Sum](./Sum/Sum.md)
-- [Running Sum](./RunningSum/RunningSum.md)
 
-## Medium level
+### Medium level
 
 - [Daily Challenges (Medium)](./DailyChallengesMedium/DailyChallengesMedium.md)
 
-## Hard level
+### Hard level
 
 - [Daily Challenges (Hard)](./DailyChallengesHard/DailyChallengesHard.md)
 
-## By numbers
+## By number
 
 - 1 Two Sum
 - 2 Add Two Numbers
