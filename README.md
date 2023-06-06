@@ -23,7 +23,7 @@ Solutions for leetcode problems. The solutions are written in C#. There are thre
 
 ## By number
 
-- 1 Two Sum
+- 1 Two Sum [C#](./TwoSum)
 - 2 Add Two Numbers
 - 13 Roman to Integer
 - 234 Palindrome Linked List
