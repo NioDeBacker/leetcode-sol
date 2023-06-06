@@ -10,16 +10,16 @@ Solutions for leetcode problems. The solutions are written in C#. There are thre
 
 ### Easy level
 
-- [Challenges For New Users](./ChallengesForNewUsers/ChallengesForNewUsers.md)
-- [Daily Challenges (Easy)](./DailyChallengesEasy/DailyChallengesEasy.md)
+- [Challenges For New Users](./ChallengesForNewUsers/)
+- [Daily Challenges (Easy)](./DailyChallengesEasy/)
 
 ### Medium level
 
-- [Daily Challenges (Medium)](./DailyChallengesMedium/DailyChallengesMedium.md)
+- [Daily Challenges (Medium)](./DailyChallengesMedium/)
 
 ### Hard level
 
-- [Daily Challenges (Hard)](./DailyChallengesHard/DailyChallengesHard.md)
+- [Daily Challenges (Hard)](./DailyChallengesHard/)
 
 ## By number
 
