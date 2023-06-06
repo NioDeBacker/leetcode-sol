@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-My solutions for leetcode problems using C#. There are three levels of leetcode problems.
+Solutions for leetcode problems. The solutions are written in C#. There are three levels of leetcode problems.
 
 - Easy
 - Medium
@@ -42,6 +42,7 @@ My solutions for leetcode problems using C#. There are three levels of leetcode 
 - 1396 Design Underground System
 - 1406 Stone Game III
 - 1480 Running Sum of 1d Array
+- 1502 Can Make Arithmetic Progression From Sequence
 - 1547 Minimum Cost to Cut a Stick
 - 1603 Design Parking System
 - 1672 Richest Customer Wealth
